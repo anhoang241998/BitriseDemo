@@ -20,7 +20,7 @@ class ViewController: UIViewController {
 extension ViewController {
     func styles() {
         label.translatesAutoresizingMaskIntoConstraints = false
-        label.text = "Hello world"
+        label.text = dadasdad
         label.textColor = .black
         label.font = .systemFont(ofSize: 16)
     }
